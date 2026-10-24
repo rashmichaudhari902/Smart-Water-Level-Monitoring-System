@@ -119,6 +119,4 @@ The project implements real-time water-level measurement, OLED display output, B
 
 ---
 
-\<p align="center">
-&#x20; \<b>Developed as an IoT-based academic project.\</b>
-\</p>
+
