@@ -1,12 +1,5 @@
 # Smart-Water-Level-Monitoring-System
 IoT-Based Smart Water Level Monitoring System using ESP32, Ultrasonic Sensor, OLED Display and Blynk IoT.
-# 💧 IoT-Based Smart Water Level Monitoring System
-
-\<p align="center">
-&#x20; \<b>An IoT-based solution for real-time water level monitoring using ESP32, HC-SR04 Ultrasonic Sensor, SSD1306 OLED Display and Blynk IoT.\</b>
-\</p>
-
----
 
 ## 📌 About the Project
 
@@ -50,12 +43,6 @@ The system also incorporates possible water leakage detection to support better 
 - CSS
 - JavaScript
 
-## 🔌 Circuit Diagram
-
-The circuit connects the ESP32 with the HC-SR04 ultrasonic sensor and SSD1306 OLED display.
-<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/a617f7d0-9057-42bd-af70-b7af56fd44b8" />
-
-
 
 ### Pin Configuration
 
@@ -65,12 +52,6 @@ The circuit connects the ESP32 with the HC-SR04 ultrasonic sensor and SSD1306 OL
 | HC-SR04   | ECHO | GPIO 18    |
 | OLED      | SDA  | GPIO 21    |
 | OLED      | SCL  | GPIO 22    |
-
-## 🔧 Hardware Implementation
-
-The following image shows the actual hardware prototype assembled using the ESP32, ultrasonic sensor, OLED display and connecting wires.
-
-<img width="1152" height="648" alt="image" src="https://github.com/user-attachments/assets/59915690-0e1f-4ee0-b5e8-dba1ba6ccb3b" />
 
 
 ## ⚙️ Working Principle
@@ -119,10 +100,7 @@ Smart-Water-Level-Monitoring-System/
 ├── Smart_Water_Level_Monitoring.ino
 ├── README.md
 │
-├── Images/
-│   ├── circuit_diagram.png
-│   └── hardware_setup.jpg
-
+├
 ```
 
 ## 👩‍💻 Project Information
